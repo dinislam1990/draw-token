@@ -1,0 +1,16 @@
+.btn{
+    background-color: rgb(99, 99, 99);
+    padding: 4px 8px;
+    border-radius: 8px;
+    color: white;
+}
+.btn:hover{
+    background-color: cadetblue;
+    /* scale: 1.1; */
+    transform: scale(1.1 transform);
+}
+.bg{
+    background-color: rgb(35, 77, 157);
+    color: white;
+    
+}
